@@ -1,0 +1,68 @@
+
+deshuesadogrande515130.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Cabeza
+  rotate: false
+  xy: 200, 134
+  size: 87, 109
+  orig: 89, 111
+  offset: 1, 1
+  index: -1
+Muslo der
+  rotate: false
+  xy: 200, 34
+  size: 66, 98
+  orig: 68, 100
+  offset: 1, 1
+  index: -1
+Muslo izq
+  rotate: false
+  xy: 268, 66
+  size: 44, 66
+  orig: 46, 68
+  offset: 1, 1
+  index: -1
+Pelo
+  rotate: false
+  xy: 2, 2
+  size: 196, 65
+  orig: 198, 67
+  offset: 1, 1
+  index: -1
+Pie der
+  rotate: false
+  xy: 413, 199
+  size: 76, 44
+  orig: 78, 46
+  offset: 1, 1
+  index: -1
+Pie izq
+  rotate: false
+  xy: 413, 165
+  size: 76, 32
+  orig: 78, 34
+  offset: 1, 1
+  index: -1
+Tibia der
+  rotate: false
+  xy: 346, 167
+  size: 65, 76
+  orig: 67, 78
+  offset: 1, 1
+  index: -1
+Tibia izq
+  rotate: false
+  xy: 289, 145
+  size: 55, 98
+  orig: 57, 100
+  offset: 1, 1
+  index: -1
+Torso
+  rotate: false
+  xy: 2, 69
+  size: 196, 174
+  orig: 198, 176
+  offset: 1, 1
+  index: -1
